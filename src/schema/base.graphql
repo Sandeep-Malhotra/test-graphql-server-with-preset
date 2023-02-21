@@ -1,0 +1,3 @@
+# src/schema/base.graphql
+type Query
+type Mutation

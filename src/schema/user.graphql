@@ -1,0 +1,8 @@
+# src/schema/user.graphql
+extend type Query {
+  user(id: ID!): User
+}
+type User {
+  id: ID!
+  fullName: String!
+}
