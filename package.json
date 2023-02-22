@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Sandeep-Malhotra/test-graphql-server-with-preset.git"
@@ -18,9 +16,8 @@
   },
   "homepage": "https://github.com/Sandeep-Malhotra/test-graphql-server-with-preset#readme",
   "devDependencies": {
-    "@eddeee888/gcg-typescript-resolver-files": "^0.2.0"
-  },
-  "dependencies": {
+    "@eddeee888/gcg-typescript-resolver-files": "^0.2.0",
     "@graphql-codegen/cli": "^3.0.0"
-  }
+  },
+  "dependencies": {}
 }
